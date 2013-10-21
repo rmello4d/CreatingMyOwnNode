@@ -1,0 +1,17 @@
+.waf-widget.waf-creatingmyownnode {
+
+}
+
+.waf-widget.waf-creatingmyownnode>div {
+    position: absolute;
+    top: 3px; left: 3px; right: 3px;
+    color: white;
+}
+.waf-widget.waf-creatingmyownnode>div>span {
+    font-size: 3.2em;
+    width:50%;
+    color: red;
+    
+}
+.waf-widget.waf-creatingmyownnode button { float: right; font-size: 2.2em; width : 30%}
+.waf-widget.waf-creatingmyownnode button span { display: inline-block; }
