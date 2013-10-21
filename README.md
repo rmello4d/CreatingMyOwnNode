@@ -28,7 +28,7 @@ The __CreatingMyOwnNode__ has a counter and 2 buttons created entirely by overri
 2. Add or subtract values to your widget
 
 ### CSS
-The __CreatingMyOwnNode__ CSS will define the background color of the widget.  
+The __CreatingMyOwnNode__ CSS was changed to better show the div, span and button elements. 
 You can adjust its color by changing directly in the Studio OR by changing the /css/widget.css file.  
 
 
